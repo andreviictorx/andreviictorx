@@ -35,5 +35,5 @@ Estou desenvolvendo um sistema de gerenciamento escolar para praticar e consolid
 ---
 
 🗂️ Repositórios em destaque:
-- [Sistema de Gerenciamento Escolar](https://github.com/andreviictorx/sistema-de-controle-escolar) 🏫
+- [Sistema de Gerenciamento Escolar](https://github.com/andreviictorx/SIGESTE) 🏫
 - [Yumelist](https://github.com/andreviictorx/yumelist) 🍽️ — Um projeto moderno de listagem de pratos com visual agradável e foco em experiência do usuário.
