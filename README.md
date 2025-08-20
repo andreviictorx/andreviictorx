@@ -1,12 +1,12 @@
 
 ### Olá! 👋 Me chamo Andre Victor
 
-Estou desenvolvendo um sistema de gerenciamento escolar para praticar e consolidar meus conhecimentos em desenvolvimento front-end.
+Desenvolvedor front end com foco na criação de soluções atráves da tecnologia. Atualmente curso Analise e Desenvolvimento de Sistemas na UniCesumar. Busco sempre realizar e fazer projetos que resolvam problemas do mundo real. 
 
 ---
 
 💻 Atualmente focado em:
-- JavaScript e TypeScript
+- TypeScritp | React.js
 - TailwindCSS
 - Boas práticas de front-end
 
