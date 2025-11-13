@@ -6,7 +6,7 @@ Desenvolvedor front end com foco na criação de soluções atráves da tecnolog
 ---
 
 💻 Atualmente focado em:
-- TypeScritp | React.js
+- TypeScritp | React.js | Nextjs
 - TailwindCSS
 - Boas práticas de front-end
 
